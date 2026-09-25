@@ -1,0 +1,1 @@
+# Configuración central (settings, logging).
